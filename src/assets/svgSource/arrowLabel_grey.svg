@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20.5">
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <rect style="fill: #CCCCCC; stroke-width: 0px;" x="8.46" y="1.76" width="21.54" height="2.29" rx="1.14" ry="1.14"/>
+      <rect style="fill: #CCCCCC; stroke-width: 0px;" x="8.46" y="8.24" width="17.48" height="2.29" rx="1.14" ry="1.14"/>
+      <rect style="fill: #CCCCCC; stroke-width: 0px;" x="8.46" y="14.73" width="13.42" height="2.29" rx="1.14" ry="1.14"/>
+      <g>
+        <rect style="fill: #CCCCCC; stroke-width: 0px;" x="-6.73" y="9.05" width="19.74" height="1.64" rx=".82" ry=".82" transform="translate(13.02 6.73) rotate(90)"/>
+        <g>
+          <rect style="fill: #CCCCCC; stroke-width: 0px;" x="-.48" y="17.71" width="4.91" height="1.64" rx=".82" ry=".82" transform="translate(-9.73 33.03) rotate(-135)"/>
+          <rect style="fill: #CCCCCC; stroke-width: 0px;" x="1.87" y="17.71" width="4.91" height="1.64" rx=".82" ry=".82" transform="translate(-11.84 8.48) rotate(-45)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
